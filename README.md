@@ -5,4 +5,4 @@ Feel free to contact me with any questions or problems at spcrowl@yahoo.com. I d
 ### Please do not reuse without permission.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scrowl/scrowl.github.io/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scrowl/scrowl.github.io)
