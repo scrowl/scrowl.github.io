@@ -3,4 +3,4 @@ bqplot
 numpy
 traitlets
 ipywidgets
-matplotlib.pyplot
+matplotlib
